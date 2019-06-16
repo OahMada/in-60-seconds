@@ -1,4 +1,4 @@
-# `this` all make sense now!
+# `this` All Makes Sense Now!
 ## `this` 是什么
 
 在 Javascript 中, 当一个函数被调用, 一个称为执行环境 (execution context) 的活动记录会被创建. 这个记录包含函数是在调用栈 (call-stack) 的何处被调用的, 如何被调用的, 被传递了什么参数等信息. 这其中就包括 `this` 引用的记录, 程序可以在函数执行期间使用这个 this 引用.
